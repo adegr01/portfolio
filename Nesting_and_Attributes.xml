@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root date="1858-08-27">
+    <heading>August 27.</heading>
+    <message><location country="canada">Newfoundland</location> to <location country="ireland"
+            >Valentia</location>. “Have you received message to <person>Gurney</person>?” “Please
+        take message, <person>Thomson</person>.”</message>
+
+    <message><location>Valentia</location> to <location>Newfoundland</location>. “No. Must send long
+        press messages. Are you ready?”</message>
+
+    <message><location>Newfoundland</location> to <location>Valentia</location>. “Understand.
+        Signals weak. Send ten words at a time.”</message>
+
+    <message><location>Valentia</location> to <location>Newfoundland</location>. “<person>George
+            Saward, Secretary Atlantic Telegraph Company</person>, to Associated Press, <address>58
+            Beaver Street, New York</address>:—News for America by Atlantic Cable. <leader>Emperor
+            of France<!--The Emperor of France in 1858 was Napoleon lll--></leader> returned to <location>Paris</location> Saturday. 
+        <leader>King of Prussia<!--King of Prussia in 1858 was Frederick William IV--></leader> too ill to visit <leader>Queen Victoria</leader>. 
+        Her Majesty returns to England 31st August.—<location country="russia">St. Petersburg</location>, 21st August.
+        Settlement of Chinese question. Chinese Empire open to trade; Christian religion allowed;
+        foreign diplomatic agents admitted; indemnity to England and France.—<location country="egypt">Alexandria</location>, 
+        August 9.The Madras<!--former name of Chennai, India during English colonization--> arrived at Suez 7th inst. Dates, Bombay
+        <!--Bombay was the former name of what is today Mumbai, India--> 19th, Aden 31st. Gwalior
+        insurgent army<!--Indian army that played key part in the turning point in the Indian Rebellion of 1857--> broken up. 
+        All India becoming tranquil" This message was commenced at
+            <time>2.10 A.M.</time> and finished at <time>11.10 A.M</time>.</message>
+                   <!--9 hour transmission. wow!-->
+
+    <message><location>Valentia</location> to <location>Newfoundland</location>. “De Sauty<!--fun fact, not a person, but a type of circut-->:
+        —Till not troubled by stoppage, every day, shall send, and you receive, from 12 to 1, from 2 to 3,
+        from 4 to 5, c. You send from 1 to 2, from 3 to 4, c. Never stop during hour. Give reversals
+        when not speaking.”</message>
+
+    <message><location>Newfoundland</location> to <location>Valentia</location>. “Is this <location
+            country="england">Greenwich</location> time? If so, give us <time>1
+        o’clock</time>.”</message>
+
+    <message><location>Valentia</location> to <location>Newfoundland</location>. “Yes; we begin now,
+        and to 11, if you understand.”</message>
+
+    <message><location>Newfoundland</location> to <location>Valentia</location>.
+        “Understand.”</message>
+</Root>
