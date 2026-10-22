@@ -1,20 +1,30 @@
-body {
+body#index {
 
-    background-color: SlateBlue;
+    background-color: #cac3e3;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     
     
 }
 
-
-body#George{
-
+body#fatty
+{
     
-    background-color: Lavender
-    
+    background-color: #ff9899;
+    font-family: "Comic Sans MS"
     
 }
 
+body#george
+{
+    
+    background-color: #71787e
+}
+
+body#resume
+{
+    
+    background-color: pink
+}
 
 div.side-by-side {
     display: flex;
