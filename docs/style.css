@@ -1,12 +1,25 @@
 body {
 
-    /*background:papayaWhip*/
-    background: LightSteelBlue;
+    background-color: SlateBlue;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
+    
+    
 }
+
+
+body#George{
+
+    
+    background-color: Lavender
+    
+    
+}
+
 
 div.side-by-side {
     display: flex;
+    
+    
 }
 
 img {
