@@ -1,7 +1,7 @@
 body#index {
 
     background-color: #cac3e3;
-    font-family: Comic-sans, Arial, Helvetica, sans-serif;
+    font-family: CHelvetica;
     
     
 }
@@ -17,18 +17,22 @@ body#fatty
 body#george
 {
     
-    background-color: #71787e
+    background-color: #71787e;
+    font-family: "Comic Sans MS";
+    color: white
 }
 
 body#resume
 {
     
-    background-color: pink
+    background-color: pink;
+    font-family: arial;
+    
 }
 
 div.side-by-side {
     display: flex;
-    background-color: #e0e3cb
+  
     
 }
 
