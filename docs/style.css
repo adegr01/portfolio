@@ -26,7 +26,15 @@ body#resume
 {
     
     background-color: pink;
-    font-family: arial;
+    font-family: "Comic Sans MS";
+    
+}
+body#gallery
+{
+    
+    background-color: #0d0d53;
+    font-family: "Comic Sans MS";
+    color: white
     
 }
 
@@ -42,6 +50,6 @@ img {
 }
 
 .featureBlock {
-    background-color:pink;
+    background-color:light purple;
     font-size: smaller;
 }
