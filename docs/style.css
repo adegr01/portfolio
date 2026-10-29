@@ -2,6 +2,7 @@ body#index {
 
     background-color: #cac3e3;
     font-family: Helvetica;
+    font-size: 20px;
     
     
 }
@@ -10,7 +11,8 @@ body#fatty
 {
     
     background-color: #ff9899;
-    font-family: "Comic Sans MS"
+    font-family: "Comic Sans MS";
+    font-size: 20px;
     
 }
 
@@ -19,7 +21,8 @@ body#george
     
     background-color: #71787e;
     font-family: "Comic Sans MS";
-    color: white
+    color: white;
+    font-size: 20px;
 }
 
 body#resume
@@ -27,6 +30,7 @@ body#resume
     
     background-color: pink;
     font-family: "Comic Sans MS";
+    font-size: 20px;
     
 }
 body#gallery
@@ -34,8 +38,15 @@ body#gallery
     
     background-color: #0d0d53;
     font-family: "Comic Sans MS";
-    color: white
+    color: white;
+    font-size: 20px;
     
+}
+body#about {
+    
+    background-color:#ff474c;
+    font-family:"Comic Sans MS";
+    font-size: 20px;
 }
 
 div.side-by-side {
@@ -50,6 +61,5 @@ img {
 }
 
 .featureBlock {
-    background-color:light purple;
-    font-size: smaller;
+
 }
